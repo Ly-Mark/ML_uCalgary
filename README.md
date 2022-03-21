@@ -17,11 +17,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -91,7 +86,6 @@
 
 * [Python](https://www.python.org/)
 * [Pandas](https://pandas.pydata.org/)
-* [Angular](https://angular.io/)
 * [Numpy](https://numpy.org/)
 * [Matplotlib](https://matplotlib.org/)
 * [Scikit-Learn](https://scikit-learn.org/)
@@ -104,7 +98,7 @@
 <!-- CONTACT -->
 ## Contact
 
-Mark Ly - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Mark Ly - [@imMarkLy](https://twitter.com/imMarkLy)
 
 Project Link: [https://github.com/Ly-Mark/ML_uCalgary](https://github.com/Ly-Mark/ML_uCalgary)
 
